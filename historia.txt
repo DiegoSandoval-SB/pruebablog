@@ -1,9 +1,5 @@
 Esta es una prueba para git
 
-Soy Diego Sandoval y tengo 32 años
+Soy Diego Sandoval
 
-
-Agregando un parrafo a esto 
-
-
-cambiando este archivo
+Mañana será un nuevo día y veremos nuevas oportunidades
